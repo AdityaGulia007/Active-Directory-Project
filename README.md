@@ -5,7 +5,7 @@ The AD Project aimed to set up and configure an Active Directory (AD) environmen
 
 ### Skills Learned
 <ul>
-  <li>Gained proficiency in setting up and managing Active Directory services.</li>
+  <li>Gained knowledge in setting up and managing Active Directory services.</li>
   <li>Learned to configure static IPs, DNS servers, and network environments</li>
   <li>Used Splunk to collect and analyze telemetry data from multiple machines.</li>
   <li>Conducted brute force attack simulations and reviewed corresponding logs.</li>
