@@ -48,3 +48,13 @@ Enable Remote Desktop Protocol (RDP) on the target machine to facilitate the att
 <b>Analyze Logs Using Splunk</b><br>
 Access Splunk to review logs showing attack details.
 Analyze event logs, including 20 login attempts, to identify the attacker’s name, IP address, and methods.
+
+## Screenshots
+Image-1 Diagram of the whole project
+![Screenshot 2025-01-12 155750](https://github.com/user-attachments/assets/53f930ad-e6d7-43db-b0f2-a40ce27ac13c)
+Image-2 Configuration of splunk 
+![Screenshot 2025-01-12 155318](https://github.com/user-attachments/assets/503e4d1e-5d8d-4623-bff0-36a12ecae152)
+Image-3 Making sure that the splunk is coonected to the internet
+![Screenshot 2025-01-12 155340](https://github.com/user-attachments/assets/31cf3b58-7baf-4f3b-b169-1321542b59cf)
+Image-4 Crowbar tool which was used to bruteforce the password
+![Screenshot 2025-01-12 155459](https://github.com/user-attachments/assets/61b85f09-d798-4e96-96a1-88b6eb2b6c13)
